@@ -20,6 +20,6 @@ Finally clone this repository, install dependencies and run the local server
 
 https://github.com/mashalmaqsood/Weather-App.git
 
-cd weather-app
-npm install
-npm start
+1. cd weather-app
+2. npm install
+3. npm start
